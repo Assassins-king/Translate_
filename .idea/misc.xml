@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.16906474820143885" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.192" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/drawable/buttonstyle.xml" value="0.192" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/drawable/edit_bg.xml" value="0.192" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/layout/activity_login.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/layout/activity_query_words.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/layout/activity_register.xml" value="0.24947916666666667" />
+        <entry key="..\:/Android Studio/App/Translation00/Translate/app/src/main/res/layout/list_item.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidProjectsFromOutside/tra/tra/app/src/main/res/layout/activity_main.xml" value="0.21422101449275363" />
+        <entry key="..\:/AndroidProjectsFromOutside/tra/tra/app/src/main/res/layout/list_item.xml" value="0.21422101449275363" />
+        <entry key="..\:/GitHub/T001/Translate/app/src/main/res/layout/activity_login.xml" value="0.30416666666666664" />
+        <entry key="..\:/GitHub/T001/Translate/app/src/main/res/layout/activity_main.xml" value="0.30416666666666664" />
+        <entry key="..\:/GitHub/T001/Translate/app/src/main/res/layout/activity_query_words.xml" value="0.30416666666666664" />
+        <entry key="..\:/GitHub/T001/Translate/app/src/main/res/layout/activity_register.xml" value="0.30416666666666664" />
+        <entry key="..\:/GitHub/T001/Translate/app/src/main/res/layout/list_item.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/10315/Desktop/tra/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/10315/Desktop/安卓项目/tra/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/github-push/Translate2/Translate/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/github-push/Translate2/Translate/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/github-push/Translate2/Translate/app/src/main/res/layout/activity_query_words.xml" value="0.25364583333333335" />
+        <entry key="..\:/github-push/Translate2/Translate/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/github-push/Translate2/Translate/app/src/main/res/layout/list_item.xml" value="0.1125" />
+        <entry key="app/src/main/res/drawable/edit_bg.xml" value="0.2455" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="app/src/main/res/layout/activity_query_words.xml" value="0.26268115942028986" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.26268115942028986" />
+        <entry key="app/src/main/res/layout/individuation.xml" value="0.328804347826087" />
+        <entry key="app/src/main/res/layout/individuation_list_item.xml" value="0.328804347826087" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.26268115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
